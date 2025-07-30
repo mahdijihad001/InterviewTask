@@ -33,7 +33,7 @@ git clone https://github.com/mahdijihad001/Simple-Note-Taking-API
 
 ```
 
-2️⃣  **Clone the repository:**
+2️⃣  **Run This Command:**
 
 ```
 npm install
