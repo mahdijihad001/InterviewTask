@@ -29,7 +29,7 @@ A simple RESTful API built using **Node.js, Express, MongoDB (Mongoose), and Typ
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/mahdijihad001/Simple-Note-Taking-API
+git clone https://github.com/mahdijihad001/InterviewTask.git
 
 ```
 
